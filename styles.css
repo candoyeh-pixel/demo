@@ -1348,7 +1348,7 @@ h4 {
 
 /* Section Spacing Polish */
 .section {
-  padding: 120px 0;
+  padding: 45px 0;
 }
 
 @media (max-width: 768px) {
